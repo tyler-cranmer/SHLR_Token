@@ -1,7 +1,7 @@
-# SHLR_Token
+# SHLR_Token 
 
-Tokenization of Shaler (ERC20) Tokens. 
-
+Fullstack ERC20 token deployment.
+Tokenization of Shaler (ERC20) Tokens.
 
 Development - Goals
 
